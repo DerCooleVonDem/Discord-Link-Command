@@ -1,0 +1,10 @@
+name: "Discord-Link-Command"
+main: dclink\Dclink
+version: 1
+api: 3.0.0
+author: "DerCooleVonDem#9991"
+website: "https://discord.gg/dtwdhm3dSN"
+commands:
+  discord:
+    aliases: ["dc"]
+    description: "Find our Discord!"
